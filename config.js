@@ -18,15 +18,15 @@
 //                                                                                            //
 //════════════════════════════════════════════════════════════════════════════════════════════//
 *                                                                 
-  * @project_name : Gifted-Md
-   * @author : Gifted Tech Info
-   * @youtube : https://www.youtube.com/@giftedtechnexus
-   * @description : Gifted-Md ,A Multi-functional whatsapp user bot.
+  * @project_name : YOUSAF BALOCH 
+   * @author : YOUSAF KHAN BALOCH 
+   * @youtube : https://youtube.com/@Y.BGamer110
+   * @description : YOUSAF KHAN,A Multi-functional whatsapp user bot.
    * @version 2.5.0
 *
 * 
-   * Created By Gifted Tech Info.
-   * © 2024 Gifted-Md.
+   * Created By YOUSAF Tech Info.
+   * © 2024 YOUSAF BALOCH.
 
 
 */
@@ -64,9 +64,9 @@ global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
 global.github=process.env.GITHUB|| "https://github.com/mouricedevs/Gifted-Md";
-global.gurl  =process.env.GURL  || "";
-global.website=process.env.GURL || "" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaXTvQ7JuyAHXjJBs61T";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaXTvQ7JuyAHXjJBs61T" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/fe157819027c6a7ebeaef.jpg"
 
 
 
@@ -116,12 +116,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.2.5.1",
-  caption : process.env.CAPTION || "*©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs*" , // ```『 ©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@giftedtechnexus"),
+  caption : process.env.CAPTION || "*YOUSAF KHAN BALOCH *" , // ```『 ©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@giftedtechnexus"),
  
-  author : process.env.PACK_AUTHER|| "Gifted Tech",
-  packname: process.env.PACK_NAME || "Gifted-Md♥️",
-  botname : process.env.BOT_NAME  || "ɢɪғᴛᴇᴅ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "Gifted Tech",
+  author : process.env.PACK_AUTHER|| "APNI PICTURE KA FREE STICKER BANWANY K LEYEA CONTACT ME 03115971525",
+  packname: process.env.PACK_NAME || "YOUSAF BALOCH ♥️",
+  botname : process.env.BOT_NAME  || "YOUSAF KHAN",
+  ownername:process.env.OWNER_NAME|| "YOUSAF MUSA",
 
 
   errorChat : process.env.ERROR_CHAT || "",
